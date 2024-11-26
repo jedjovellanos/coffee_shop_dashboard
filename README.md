@@ -5,7 +5,7 @@
 - [Limitations](#limitations)
 
 ## Company Background 
-Jim Nortons is a fast-growing American quick-service coffee chain. Founded in recent years and locations throughout the US, UK, and Ireland, the brand is focused on expanding its footprint and establishing a global presence in the future, offering quality coffee in a welcoming environment.
+Jim Nortons is a fictional, fast-growing, American quick-service coffee chain. Founded in recent years and locations throughout the US, UK, and Ireland, the brand is focused on expanding its footprint and establishing a global presence in the future, offering quality coffee in a welcoming environment.
  
 ## Dashboard Previews
 ### General Sales Dashboard
