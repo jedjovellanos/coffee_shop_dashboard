@@ -9,7 +9,7 @@ Jim Nortons is a fictional, fast-growing, American quick-service coffee chain. F
  
 ## Dashboard Previews
 ### General Sales Dashboard
-This dashboard offers a comprehensive overview of sales across key regions (US, UK, and Ireland) with detailed KPIs such as total sales and volume sold. The line charts enable the identification of monthly trends, both overall and by coffee type, helping to understand demand patterns. The interactive slicers (date, size, coffee type, and roast type) allow stakeholders to drill down into specific segments, enabling more precise decision-making on inventory, marketing, and regional strategies.
+This dashboard offers a comprehensive overview of sales across key regions (US, UK, and Ireland) with detailed KPIs such as total sales and volume sold. The line charts depict monthly sales trends, both overall and by coffee type, helping to understand demand patterns. The interactive slicers (date, size, coffee type, and roast type) allow stakeholders to drill down into specific segments, enabling more precise decision-making on inventory, marketing, and regional strategies.
 
 ![general-dash-1](assets/general_dash_1.png)
 *General dashboard preview*
